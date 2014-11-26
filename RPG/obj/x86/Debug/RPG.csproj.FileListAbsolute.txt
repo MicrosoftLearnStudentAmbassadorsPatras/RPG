@@ -1,0 +1,10 @@
+G:\visual studio 2010\Projects\RPG\RPG\bin\Debug\RPG.exe
+G:\visual studio 2010\Projects\RPG\RPG\bin\Debug\RPG.pdb
+G:\visual studio 2010\Projects\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\visual studio 2010\Projects\RPG\RPG\obj\x86\Debug\RPG.exe
+G:\visual studio 2010\Projects\RPG\RPG\obj\x86\Debug\RPG.pdb
+C:\Documents and Settings\Administrator\My Documents\Downloads\RPG\RPG\obj\x86\Debug\RPG.exe
+C:\Documents and Settings\Administrator\My Documents\Downloads\RPG\RPG\obj\x86\Debug\RPG.pdb
+C:\Documents and Settings\Administrator\My Documents\Downloads\RPG\RPG\bin\Debug\RPG.exe
+C:\Documents and Settings\Administrator\My Documents\Downloads\RPG\RPG\bin\Debug\RPG.pdb
+C:\Documents and Settings\Administrator\My Documents\Downloads\RPG\RPG\obj\x86\Debug\ResolveAssemblyReference.cache
